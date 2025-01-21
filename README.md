@@ -1,5 +1,4 @@
 EEG signals are collected using OpenBCI, during the execution of motor activities, motor imaging and motion observation!
-- Last Changes (18/02/2024)
 
 New version of data acquisition in folder **"AcquisitionProgram_V2.0"** , with two methods.
 - Link: https://github.com/vasanza/OpenBCI/tree/main/AcquisitionProgram_V2.0
@@ -13,6 +12,13 @@ Note: Check the path of the images and the folder to save the files
 
 ⭐ When using this resource, please cite the original publication:
 - [Asanza, V., Lorente-Leyva, L. L., Peluffo-Ordóñez, D. H., Montoya, D., & Gonzalez, K. (2023). MILimbEEG: A dataset of EEG signals related to upper and lower limb execution of motor and motor imagery tasks. Data in Brief, 50, 109540.](https://doi.org/10.1016/j.dib.2023.109540)
+
+Database for Upper and Lower Limb Task Based on EEG Signals During the Execution of Motor and Motorimagery Tasks
+- Main Code: https://github.com/Human-Machine-Interface/OpenBCI_Data_Acquisition
+- Data Mendeley: https://data.mendeley.com/datasets/x8psbz3f6x/2
+- More Matlab Examples: https://github.com/Human-Machine-Interface
+- Hardware: FM=16 chanels , Cyton + Dasy , Campling Rate = 125 Hz
+- Subjects: 60
 
 ## OpenBCI Docs
 
